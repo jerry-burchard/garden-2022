@@ -2,39 +2,70 @@
 
 tomato (8 weeks)
   - sow type:           indoors
-  - sow date:           2022-03-06
+  - sow date:           2022-03-05
   - sow depth:          1/2"
+  - sow number          12
   - square foot         2
   - planted squares     8
   - sun type:           full
 
+cherry tomato (8 weeks)
+  - sow type:           indoors
+  - sow date:           2022-03-05
+  - sow depth:          1/2"
+  - sow number          6
+  - square foot         2
+  - planted squares     2
+  - sun type:           full
+
 cauliflower (8 weeks)
   - sow type:           indoor
-  - sow date:           2022-03-06
+  - sow date:           2022-03-05
   - sow depth:          1/4"
+  - sow number          6
   - square foot         1
-  - planted squares     8
+  - planted squares     4
   - sun type:           full
 
 bell peppers (8 weeks)
   - sow type:           indoors
-  - sow date:           2022-03-06
+  - sow date:           2022-03-05
   - sow depth:          1/4"
+  = sow number          16
   - square foot         1
   - planted squares     12
   - sun type:           full
 
+banana peppers (8 weeks)
+  - sow type:           indoors
+  - sow date:           2022-03-05
+  - sow depth:          1/4"
+  = sow number          3
+  - square foot         1
+  - planted squares     1
+  - sun type:           full
+
+jalapeno peppers (8 weeks)
+  - sow type:           indoors
+  - sow date:           2022-03-05
+  - sow depth:          1/4"
+  = sow number          3
+  - square foot         1
+  - planted squares     1
+  - sun type:           full
+
 basil (8 weeks)
   - sow type:           indoors
-  - sow date:           2022-03-06
+  - sow date:           2022-03-05
   - sow depth:          1/4"
+  - sow numbeer         20
   - square foot         4
   - planted squares     4
   - sun type:           full
 
 broccoli (6 weeks)
   - sow type:           indoors
-  - sow date:           2022-03-20
+  - sow date:           2022-03-19
   - sow depth:          1/4"
   - square foot         1
   - planted squares     12
@@ -42,7 +73,7 @@ broccoli (6 weeks)
 
 squash (4 weeks)
   - sow type:           indoors
-  - sow date:           2022-04-04
+  - sow date:           2022-04-02
   - sow depth:          1"
   - square foot         2
   - planted squares     4
@@ -50,7 +81,7 @@ squash (4 weeks)
 
 cucumber (4 weeks)
   - sow type:           indoors
-  - sow date:           2022-04-04
+  - sow date:           2022-04-02
   - sow depth:          1"
   - square foot         2
   - planted squares     8
@@ -58,15 +89,31 @@ cucumber (4 weeks)
 
 lettuce (4 weeks)
   - sow type:           outdoor
-  - sow date:           2022-04-05
+  - sow date:           2022-04-02
   - sow depth:          1/4"
   - square foot         5
-  - planted squares     12
+  - planted squares     8
+  - sun type:           partial 
+
+spinach (4 weeks)
+  - sow type:           outdoor
+  - sow date:           2022-04-02
+  - sow depth:          1/4"
+  - square foot         4
+  - planted squares     8
+  - sun type:           partial 
+
+onion (2 weeks)
+  - sow type:           outdoor
+  - sow date:           2022-04-16
+  - sow depth:          1"
+  - square foot         5
+  - planted squares     8
   - sun type:           full 
 
 carrot (2 weeks)
   - sow type:           outdoor
-  - sow date:           2022-04-17
+  - sow date:           2022-04-16
   - sow depth:          1/4"
   - square foot         12
   - planted squares     8
@@ -74,32 +121,16 @@ carrot (2 weeks)
 
 kale (2 weeks)
   - sow type:           outdoor
-  - sow date:           2022-04-17
+  - sow date:           2022-04-16
   - sow depth:          1/4"
-  - square foot         4
-  - planted squares     8
-  - sun type:           full
-
-arugula (2 weeks)
-  - sow type:           outdoor
-  - sow date:           2022-04-17
-  - sow depth:          1/8"
   - square foot         4
   - planted squares     8
   - sun type:           partial
 
-onion (2 weeks)
+arugula (2 weeks)
   - sow type:           outdoor
-  - sow date:           2022-04-23
-  - sow depth:          1"
-  - square foot         5
+  - sow date:           2022-04-16
+  - sow depth:          1/8"
+  - square foot         4
   - planted squares     8
-  - sun type:           full 
-
-beans (0 weeks)
-  - sow type:           outdoor
-  - sow date:           2022-04-24
-  - sow depth:          1"
-  - square foot         9
-  - planted squares     4
-  - sun type:           full
+  - sun type:           partial
